@@ -1,0 +1,19 @@
+PS C:\Users\pb875\Desktop\DAA Assignments> cd "c:\Users\pb875\Desktop\DAA Assignments\" ; if ($?) { javac Assignment5.java } ; if ($?) { java Assignment5 }
+RouteMaster Logistics Optimization System
+Enter the total number of hubs in the network: 4
+Enter number of available routes: 5
+Enter route info as: <From> <To> <Cost/Time>
+0 1 9
+2 1 3
+1 3 6
+0 2 2
+2 3 1
+Enter warehouse node (start): 0
+Enter destination node (end): 3
+
+Processing optimal route...
+Optimized delivery path: 0 -> 2 -> 3
+Route computation completed successfully.
+Computation time: 0.1357 ms
+RouteMaster AI has determined the best delivery path.
+PS C:\Users\pb875\Desktop\DAA Assignments> 

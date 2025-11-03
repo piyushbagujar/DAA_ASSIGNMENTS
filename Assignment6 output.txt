@@ -1,0 +1,41 @@
+PS C:\Users\pb875\Desktop\DAA Assignments> cd "c:\Users\pb875\Desktop\DAA Assignments\" ; if ($?) { javac Assignment6.java } ; if ($?) { java Assignment6 }
+Cargo Load Optimization using Dynamic Programming
+Enter number of available cargo items: 5
+
+Enter details for item 1:
+Item name: Laptop
+Weight (kg): 2
+Utility Value: 3000
+
+Enter details for item 2:
+Item name: computer
+Weight (kg): 3
+Utility Value: 4000
+
+Enter details for item 3:
+Item name: bags
+Weight (kg): 6
+Utility Value: 900
+
+Enter details for item 4:
+Item name: keyboard
+Weight (kg): 1
+Utility Value: 700
+
+Enter details for item 5:
+Item name: mouse   
+Weight (kg): 4
+Utility Value: 800
+
+Enter truck capacity (in kg): 5 
+
+Selected Cargo Items:
+ ? computer (Weight: 3 kg, Value: 4000)
+ ? Laptop (Weight: 2 kg, Value: 3000)
+Total Weight: 5 kg
+
+Maximum Achievable Value: 7000
+Computation Time: 0.026 ms
+
+Optimization completed successfully ? Safe Loading!
+PS C:\Users\pb875\Desktop\DAA Assignments> 
