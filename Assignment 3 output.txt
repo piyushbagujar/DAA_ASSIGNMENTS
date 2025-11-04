@@ -1,0 +1,5 @@
+PS C:\Users\pb875\Desktop\DAA Assignments> cd "c:\Users\pb875\Desktop\DAA Assignments\" ; if ($?) { javac Assignment3.java } ; if ($?) { java Assignment3 }
+capacity is: 50
+
+Maximum utility we can obtain = 250.0
+PS C:\Users\pb875\Desktop\DAA Assignments> 

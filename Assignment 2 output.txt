@@ -1,0 +1,28 @@
+Before Sorting:
+Inception | Rating: 8.8 | Year: 2010 | Popularity: 95000
+Interstellar | Rating: 8.6 | Year: 2014 | Popularity: 120000
+The Dark Knight | Rating: 9.0 | Year: 2008 | Popularity: 150000
+Oppenheimer | Rating: 8.5 | Year: 2023 | Popularity: 200000
+Dune | Rating: 8.2 | Year: 2021 | Popularity: 110000
+
+Sorted by Rating:
+Dune | Rating: 8.2 | Year: 2021 | Popularity: 110000
+Oppenheimer | Rating: 8.5 | Year: 2023 | Popularity: 200000
+Interstellar | Rating: 8.6 | Year: 2014 | Popularity: 120000
+Inception | Rating: 8.8 | Year: 2010 | Popularity: 95000
+The Dark Knight | Rating: 9.0 | Year: 2008 | Popularity: 150000
+
+Sorted by Rating:
+The Dark Knight | Rating: 9.0 | Year: 2008 | Popularity: 150000
+Inception | Rating: 8.8 | Year: 2010 | Popularity: 95000
+Interstellar | Rating: 8.6 | Year: 2014 | Popularity: 120000
+Dune | Rating: 8.2 | Year: 2021 | Popularity: 110000
+Oppenheimer | Rating: 8.5 | Year: 2023 | Popularity: 200000
+
+Sorted by Rating:
+Inception | Rating: 8.8 | Year: 2010 | Popularity: 95000
+Dune | Rating: 8.2 | Year: 2021 | Popularity: 110000
+Interstellar | Rating: 8.6 | Year: 2014 | Popularity: 120000
+The Dark Knight | Rating: 9.0 | Year: 2008 | Popularity: 150000
+Oppenheimer | Rating: 8.5 | Year: 2023 | Popularity: 200000
+PS C:\Users\pb875\Desktop\DAA Assignments> 
